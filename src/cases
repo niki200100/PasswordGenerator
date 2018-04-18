@@ -1,0 +1,24 @@
+lower
+upper
+letters
+numbers
+numbers upper	   upc	   nc
+numbers lower	  	   lcc nc
+numbers letters	   upc lcc nc
+etw numbers
+etw letters
+etw both		   	   lcc nc
+------
+symbols
+symbols upper
+symbols lower
+symbols letters
+symbols numbers
+symbols upper numbers
+symbols lower numbers
+symbols letters numbers
+symbols etw
+symbols etw lower
+symbols etw numbers
+symbols etw lower numbers
+------
